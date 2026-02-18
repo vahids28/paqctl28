@@ -49,7 +49,7 @@ $ErrorActionPreference = "Stop"
 # Directories and pinned versions (for stability - update after testing new releases)
 $InstallDir = "C:\paqet"
 $PaqetExe = "$InstallDir\paqet_windows_amd64.exe"
-$PaqetVersion = "v1.0.0-alpha.15"   # Pinned paqet version
+$PaqetVersion = "v1.0.0-alpha.16"   # Pinned paqet version
 $GfkDir = "$InstallDir\gfk"
 $ConfigFile = "$InstallDir\config.yaml"
 $SettingsFile = "$InstallDir\settings.conf"
